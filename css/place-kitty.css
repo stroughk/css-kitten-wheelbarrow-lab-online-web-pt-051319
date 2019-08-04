@@ -1,4 +1,10 @@
 /* Select the image with a class of kitty-1 */
+.kitty-1 {
+  position: absolute;
+  z-index: 1;
+  top: 276px;
+  left: 129px;
+}
 
 /*__write_selector_here__*/ {
   position: absolute;
